@@ -4,35 +4,35 @@
 
 I build practical software and troubleshoot live, business-critical systems. My public portfolio spans full-stack Django, React Native / Expo, Java desktop development, Linux security tooling, databases, automated browser testing and CI/CD.
 
-[🌐 Portfolio](https://priceylewis.github.io/) · [💼 LinkedIn](https://www.linkedin.com/in/lewis-price-profile/) · [📄 CV](https://priceylewis.github.io/assets/Lewis-Price-CV.pdf)
+[Portfolio](https://priceylewis.github.io/) · [💼 LinkedIn](https://www.linkedin.com/in/lewis-price-profile/) · [📄 CV](https://priceylewis.github.io/assets/Lewis-Price-CV.pdf)
 
 ## Featured engineering work
 
-### 🚀 [PredictMyGrade](https://github.com/PriceyLewis/PredictMyGrade-Demo)
+### [PredictMyGrade](https://github.com/PriceyLewis/PredictMyGrade-Demo)
 Full-stack Django portfolio product for academic analytics, forecasting-style tools, planning and demo-safe Free/Premium journeys.
 
 **Stack:** Python · Django · SQLite · Playwright · GitHub Actions  
 **Verification:** backend regression tests, desktop/mobile E2E journeys and live-deployment smoke tests.
 
-### 📱 [Student Toolkit OS](https://github.com/PriceyLewis/StudentToolKit-OS-Demo)
+### [Student Toolkit OS](https://github.com/PriceyLewis/StudentToolKit-OS-Demo)
 Local-first React Native / Expo productivity system combining academics, habits, revision planning, analytics, fitness and career progress.
 
 **Stack:** React Native · Expo · TypeScript · AsyncStorage  
 **Verification:** lint, type checks, regression tests, Expo web build and desktop/mobile browser journeys.
 
-### 🛡️ [Guardian Antivirus](https://github.com/PriceyLewis/Guardian-AntiVirus)
+### [Guardian Antivirus](https://github.com/PriceyLewis/Guardian-AntiVirus)
 Linux desktop security application coordinating ClamAV scanning, filesystem monitoring, quarantine, history and defensive settings behaviour.
 
 **Stack:** Python · PySide6 · ClamAV · SQLite · pytest  
 **Verification:** automated native regression tests plus a safe interactive browser simulation.
 
-### 🎓 [Academic Performance Calculator](https://github.com/PriceyLewis/Academic-Performance-Calculator)
+### [Academic Performance Calculator](https://github.com/PriceyLewis/Academic-Performance-Calculator)
 Modernised Java Swing dissertation application with Microsoft Access persistence, visualisation and an inspectable educational random-forest classifier.
 
 **Stack:** Java 17 · Swing · Maven · JUnit · UCanAccess  
 **Verification:** Maven/JUnit CI and an automated browser launch of the actual Swing application through CheerpJ.
 
-### 🖥️ [PC Part Picker](https://github.com/PriceyLewis/PCPartPickerTool-Demo)
+### [PC Part Picker](https://github.com/PriceyLewis/PCPartPickerTool-Demo)
 Java Swing coursework project modernised into a recruiter-friendly PC component browser with basket, reviews and deterministic recommendation features.
 
 **Stack:** Java 17 · Swing · Maven · Microsoft Access  
